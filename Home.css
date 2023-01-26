@@ -1,0 +1,36 @@
+#card {
+    margin-top: 15px;
+}
+
+#card{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+#bar {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#one {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+#two {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#three {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.progress-bar {
+    height: 18px;
+}
