@@ -1,13 +1,29 @@
 #card {
     margin-top: 15px;
+   
 }
 
+#card2 {
+    background-color: #340200;
+    color: white;
+}
 #card{
     font-family: 'Playfair Display', serif;
     font-size: 25px;
     letter-spacing: 1px;
 }
 
+#button {
+    background-color: #ABAD9A;
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+}
+#family {
+    color: white;
+    background-color: white;
+}
 #bar {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
@@ -18,17 +34,40 @@
     font-family: 'Playfair Display', serif;
     font-size: 18px;
     letter-spacing: 1px;
+    background-color: #151900;
+    color: white;
 }
+
+#body1 {
+    background-color: #340200;
+    color: white;
+}
+
+#body2 {
+    background-color: #340200;
+    color: white;
+}
+
+#body3 {
+    background-color: #340200;
+    color: white;
+}
+
+
 #two {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
     letter-spacing: 1px;
+    background-color: #151900;
+    color: white;
 }
 
 #three {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
     letter-spacing: 1px;
+    background-color: #151900;
+    color: white;
 }
 
 .progress-bar {
@@ -46,4 +85,21 @@
 #collapseThree {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
+
+}
+
+#klaus {
+    background-color: #340200;
+}
+
+#hope {
+    background-color: #151900;
+}
+
+#hayley {
+    background-color: #ABAD9A;
+}
+
+#back {
+    background-color: #212529;
 }
